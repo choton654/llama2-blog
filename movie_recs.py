@@ -3,7 +3,7 @@ import requests
 import openai
 
 # openai.api_key = "<your openai_api_key>"
-# hf_token = "<your hf_token>"
+hf_token = "<your hf_token>"
 embedding_url = "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"
 
 client = pymongo.MongoClient(
