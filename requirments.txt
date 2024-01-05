@@ -6,3 +6,5 @@ python-box
 streamlit
 google-generativeai
 python-dotenv
+openai
+huggingface_hub
