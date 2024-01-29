@@ -8,3 +8,6 @@ google-generativeai
 python-dotenv
 openai
 huggingface_hub
+langchain_google_genai
+PyPDF2
+faiss-cpu
