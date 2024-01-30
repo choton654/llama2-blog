@@ -11,3 +11,5 @@ huggingface_hub
 langchain_google_genai
 PyPDF2
 faiss-cpu
+llama-index
+pypdf
